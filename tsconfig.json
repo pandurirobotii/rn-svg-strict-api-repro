@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "customConditions": ["react-native"],
+    "jsx": "react-jsx",
+    "module": "preserve",
+    "moduleResolution": "bundler",
+    "noEmit": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "target": "esnext"
+  },
+  "include": ["src"]
+}
